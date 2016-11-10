@@ -20,6 +20,8 @@ public class ExCOD1Av {
         //commit B en la rama máster
         //commit E en la rama máster
         //commit F en la rama máster
+        //commit C en la rama exp
+        //commit D en la rama exp
         
     }
     
